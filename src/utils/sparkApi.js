@@ -2,11 +2,11 @@ import CryptoJS from 'crypto-js';
 
 // 讯飞星火配置
 const SPARK_CONFIG = {
-  appId: '36d70091',        // 替换为你的AppID
-  apiKey: 'YmYyMmVkYTkyYmRhYWNjZmViNzg4YTRm',      // 替换为你的APIKey
-  apiSecret: '24e0b5ffe4b5d2fc4e9da242eda488a0', // 替换为你的APISecret
-  hostUrl: 'wss://spark-api.xf-yun.com/v1/x1',
-  domain: 'X1'
+  appId: 'your_app_id',        // 替换为你的AppID
+  apiKey: 'your_api_key',      // 替换为你的APIKey
+  apiSecret: 'your_api_secret', // 替换为你的APISecret
+  hostUrl: 'wss://spark-api.xf-yun.com/v3.1/chat',
+  domain: 'generalv3'
 };
 
 // 生成鉴权URL
