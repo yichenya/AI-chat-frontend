@@ -17,4 +17,4 @@ domain: 'generalv3'
 npm install
 npm start
 
-![image]（）
+![image]（https://github.com/yichenya/AI-chat-frontend/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-05%20150726.png）
