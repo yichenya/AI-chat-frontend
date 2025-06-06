@@ -10,11 +10,11 @@ apiKey: 'your_api_key',      // 替换为你的APIKey
 apiSecret: 'your_api_secret', // 替换为你的APISecret
 hostUrl: 'wss://spark-api.xf-yun.com/v3.1/chat',
 domain: 'generalv3'
-上面的信息在讯飞的控制台就能看到。
+信息在讯飞的控制台
 
 
 运行：
 npm install
 npm start
 
-
+![image]（）
