@@ -28,4 +28,4 @@ npm install
 
 npm start
 
-![image] (https://github.com/yichenya/AI-chat-frontend/blob/main/images/%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE%202025-06-05%20150726.png)
+![屏幕截图 2025-06-05 150726](https://github.com/user-attachments/assets/82fcc055-e02a-4c2a-85ab-c474efc99512)
